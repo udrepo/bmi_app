@@ -155,7 +155,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Text(
-                          'WEIGHT',
+                          'AGE',
                           style: kLabelTextStyle,
                         ),
                         Text(
